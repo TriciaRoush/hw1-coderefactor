@@ -1,1 +1,2 @@
 # upenn-accessibilityexercise
+Assigned a code clean up of the Horiseon Business Services webpage.  First, found and replaced div elements with semantic html elements and placed them in logical structure.  Next, I labeled all images with an alt attribute describing the image in the event of the image's failure to load.  Finally, renamed the website's title for consumers to have a clear and concise idea of the business' brand.
